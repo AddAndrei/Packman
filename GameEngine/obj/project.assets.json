@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "GameEngine/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/GameEngine.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GameEngine.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "GameEngine/1.0.0": {
-      "type": "project",
-      "path": "../GameEngine/GameEngine.csproj",
-      "msbuildProject": "../GameEngine/GameEngine.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "GameEngine >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\web\\Packman\\Packman\\Packman\\Packman.csproj",
-      "projectName": "Packman",
-      "projectPath": "F:\\web\\Packman\\Packman\\Packman\\Packman.csproj",
+      "projectUniqueName": "F:\\web\\Packman\\Packman\\GameEngine\\GameEngine.csproj",
+      "projectName": "GameEngine",
+      "projectPath": "F:\\web\\Packman\\Packman\\GameEngine\\GameEngine.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "F:\\web\\Packman\\Packman\\Packman\\obj\\",
+      "outputPath": "F:\\web\\Packman\\Packman\\GameEngine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "F:\\web\\Packman\\Packman\\GameEngine\\GameEngine.csproj": {
-              "projectPath": "F:\\web\\Packman\\Packman\\GameEngine\\GameEngine.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
