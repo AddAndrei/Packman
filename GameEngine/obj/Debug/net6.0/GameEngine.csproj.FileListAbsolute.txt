@@ -1,0 +1,12 @@
+F:\web\Packman\Packman\GameEngine\bin\Debug\net6.0\GameEngine.deps.json
+F:\web\Packman\Packman\GameEngine\bin\Debug\net6.0\GameEngine.dll
+F:\web\Packman\Packman\GameEngine\bin\Debug\net6.0\GameEngine.pdb
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\GameEngine.csproj.AssemblyReference.cache
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\GameEngine.AssemblyInfoInputs.cache
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\GameEngine.AssemblyInfo.cs
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\GameEngine.csproj.CoreCompileInputs.cache
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\GameEngine.dll
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\refint\GameEngine.dll
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\GameEngine.pdb
+F:\web\Packman\Packman\GameEngine\obj\Debug\net6.0\ref\GameEngine.dll
